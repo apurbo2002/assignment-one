@@ -1,0 +1,189 @@
+body{
+    font-family: Lato;
+}
+
+/* header section */
+
+.header{
+    background: rgba(229, 84, 115, 0.10);
+
+
+}
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 240px 0px 240px;
+}
+.banner-title{
+color: #272727;
+font-size: 80px;
+font-weight: 800;
+margin-bottom: 0px;
+}
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.btn-primary{
+border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+color: white;
+}
+.profile{
+    padding-top: 50px;
+
+}
+/* feature */
+.section{
+    text-align: center;
+    align-items: center;
+  
+
+}
+
+.feature-title{
+color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+.feature-info{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+}
+.feature-flower{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+
+}
+.feature-one{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+.feature-two{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.feature-three{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+
+/* sale */
+.sale-up{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.sale{
+    text-align: center;
+    padding-left: 395px;
+}
+.section-one{
+    margin-top: 128px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.10);}
+.sale-title{
+ color: #272727;
+font-size: 40px;
+font-weight: 800;
+
+}
+.sale-info{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+}
+.img{
+   padding-right: 430px; 
+}
+/* insta */
+.section-two{
+    text-align: center;
+    margin: 128px 240px; 
+}
+.insta-title{
+    font-size: 40px;
+    font-weight: 800;
+}
+.insta-flower{
+    display: inline-flex;
+    gap: 24px;
+}
+.insta-info{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+}
+.deal-title{
+color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-top: 122px;
+padding-bottom: 0px;
+}
+.deal-primary{
+ color: rgba(39, 39, 39, 0.60);
+font-size: 18px;;
+font-weight: 400;
+padding-bottom: 16px;
+padding-bottom: 48px; 
+}
+.input{
+    border-radius: 8px;
+background: #FFF;
+width: 700px;
+height: 64px;
+border: none;
+
+} 
+.deal{
+    margin: 128px 240px;
+    text-align: center;
+    background-image: url('../flower/Rectangle\ 9.png');
+    
+   background-repeat: no-repeat;
+   background-size: cover;
+   /* padding-bottom: 121px; */
+}
+.deal-line{
+    display: flex;
+    padding-bottom: 128px;
+    padding-left: 284px;
+    padding-right: 287px; 
+}
+/* footer */
+.footer{
+    background-color: black;
+    text-align: center;
+}
+.last-one{
+color: #E55473;
+font-size: 48px;
+font-weight: 800;
+padding-top: 128px;
+}
+.para-one{
+color: rgba(255, 255, 255, 0.90);
+font-size: 18px;
+font-weight: 400;
+}
+.para-two{
+    color: rgba(255, 255, 255, 0.40);
+font-size: 16px;
+font-weight: 400;
+}
+/* other */
+.color-one{
+   color: #E55473;
+}
+.color-two{
+  color: white;  
+}
